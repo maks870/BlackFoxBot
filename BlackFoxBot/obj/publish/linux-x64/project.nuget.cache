@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "6+pZuJW6u4OOWZ3qpveI8/MkYW9g+3qGz5ImxX3YbLnQT7/j0cTccFiABB3TFglbFOTOvPrGjsD74YUgzmRiNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\BlackFoxBot\\BlackFoxBot\\BlackFoxBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\jetbrains.annotations\\2021.3.0\\jetbrains.annotations.2021.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\npgsql\\6.0.0\\npgsql.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.0\\telegram.bot.extensions.polling.1.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.7\\microsoft.netcore.app.host.linux-x64.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
